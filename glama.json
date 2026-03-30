@@ -1,1 +1,8 @@
-{"name": "InvoiceOracle", "description": "PDF invoice parsing \u2014 10 MCP tools for OCR, ZUGFeRD, IBAN/VAT extraction", "category": "business", "tags": ["invoice", "pdf", "ocr", "zugferd"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/invoice/mcp/"}
+{
+  "name": "invoiceOracle",
+  "description": "PDF Invoice Parsing \u2014 10 MCP tools for extraction & validation",
+  "repository": "https://github.com/ToolOracle/invoiceoracle",
+  "endpoint": "https://tooloracle.io/invoice/mcp/",
+  "tools": 10,
+  "license": "MIT"
+}
