@@ -1,0 +1,5 @@
+name: InvoiceOracle
+description: E-Invoicing compliance — 10 tools
+endpoint: https://tooloracle.io/invoice/mcp/
+transport: streamable-http
+license: MIT
